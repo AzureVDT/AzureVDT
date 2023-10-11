@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there,+I'm+Thong+Dinh..&hearts;++;I'm+a+Web+Developer;++;I'm+a+Mobile+Developer;++;Active+Learner/Researcher;++;Love+to+learn+new+stuffs..<3"></a>
-</p>
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Epilogue&pause=1000&random=false&width=600&height=100&lines=Hi+there%2C+I'm+Thong+Dinh+%3E_%3C;I'm+a+Web+Developer+%3C%2F%3E;I'm+a+Mobile+Developer+%3C%2F%3E;Active+Learner%2FResearcher+%F0%9F%98%8D;Love+to+learn+new+stuffs..%3C3" alt="Typing SVG" /></a>
 
 ### My skills include
 
